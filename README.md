@@ -1,6 +1,6 @@
 # Weather App
 
-Simple Weather App with Vanilla Javascript. [[Demo]]()
+Simple Weather App with Vanilla Javascript. [[Demo]]()  
 🎈 Vanilla JS Project for Beginners.
 
 ## Preview
