@@ -3,7 +3,8 @@
 Simple Weather App with Vanilla Javascript. [[Demo]](https://coach-oox.github.io/weather-app/)  
 🎈 Vanilla JS Project for Beginners.
 
-⚠️ YOU NEED TO REPLACE `API_KEY` in `src/js/weather.js` WITH YOUR `API_KEY` (Generate API Key : [OpenWeatherMap](https://openweathermap.org/))
+⚠️ You need to replace `API_KEY` in `src/js/weather.js` with your `API_KEY`  
+(Generate API Key : [OpenWeatherMap](https://openweathermap.org/))
 
 ⚠️ `src/js/weather.js` 파일의 `API_KEY`를 [OpenWeatherMap](https://openweathermap.org/)에서 발급 받아 교체한 뒤 사용하세요.
 
