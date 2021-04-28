@@ -76,7 +76,8 @@ i {
   align-items: flex-end; }
   .temp-icon .temp {
     font-size: 3.5em;
-    font-weight: bold; }
+    font-weight: bold;
+    margin-right: 0.5em; }
   .temp-icon img {
     background-color: rgba(0, 0, 0, 0.2);
     border-radius: 15px;
