@@ -1,12 +1,16 @@
+Vanilla (Pure) Javascript project for beginners.  
+Check more projects [here](https://github.com/coachoox/vanilla-js-projects).
+
 # Weather App
 
-Simple Weather App with Vanilla Javascript. [[Demo]](https://coach-oox.github.io/weather-app/)  
-🎈 Vanilla JS Project for Beginners.
+Simple Weather App with Vanilla Javascript.  
+[[Demo]](https://coachoox.github.io/js-weather-app/)  
 
-⚠️ You need to replace `API_KEY` in `src/js/weather.js` with your `API_KEY`  
-(Generate API Key : [OpenWeatherMap](https://openweathermap.org/))
+## Notice
 
-⚠️ `src/js/weather.js` 파일의 `API_KEY`를 [OpenWeatherMap](https://openweathermap.org/)에서 발급 받아 교체한 뒤 사용하세요.
+`src/js/weather.js` 파일의 `API_KEY`를 [OpenWeatherMap](https://openweathermap.org/)에서 발급 받아 교체한 뒤 사용하세요.
+- You need to replace `API_KEY` in `src/js/weather.js` with your `API_KEY`
+- Generate API Key : [OpenWeatherMap](https://openweathermap.org/)
 
 ## Preview
 
